@@ -3,7 +3,7 @@
 - [ ] 1. **1st Nov** - ~~_NULL_~~
 - [ ] 2. **2nd Nov** - ~~_NULL_~~
 - [ ] 3. **3rd Nov** - ~~_NULL_~~
-- [ ] 4. **4th Nov** - ~~_NULL_~~
+- [x] 4. **4th Nov** 
 
      - `wikipidea`, [mediawiki](https://github.com/barrust/mediawiki), [mediawikiapi](https://github.com/TheBugYouCantFix/wiki-reddit-bot/blob/main/requirements.txt) (_Wikipedia_API_for_Python_)
      
@@ -12,6 +12,10 @@
         import wikipedia
         print(wikipedia.search("Github", results = 5, suggestion = True))
         ```
+ - [x] 5. **5th Nov**
+     - `GitHub Actions`, `mCoding`
+     
+          - > _Reviving my knowledge of GitHub Actions_
         
  
  
@@ -24,7 +28,8 @@ Day      | Score
 **2nd Nov** | **0**
 **3rd Nov** | **0**
 **4th Nov** | **1**
-***Total***     | ***1***
+**5th Nov** | **0.5**
+***Total***     | ***1.5***
      
 </div>
 <hr>
