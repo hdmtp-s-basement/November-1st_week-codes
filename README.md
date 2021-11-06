@@ -17,6 +17,10 @@
      
           - > _Reviving my knowledge of GitHub Actions_
         
+ - [x] 6. **6th Nov**
+     - [sys](https://www.geeksforgeeks.org/python-sys-module/), [*args, *kwargs](https://www.geeksforgeeks.org/args-kwargs-python/)
+     
+          - > _Reviving my idea of sys in python and confirming my ideas of *args & *kwargs_
  
  
  <hr>
@@ -29,7 +33,8 @@ Day      | Score
 **3rd Nov** | **0**
 **4th Nov** | **1**
 **5th Nov** | **0.5**
-***Total***     | ***1.5***
+**6th Nov** | **1**
+***Total***     | ***2.5***
      
 </div>
 <hr>
