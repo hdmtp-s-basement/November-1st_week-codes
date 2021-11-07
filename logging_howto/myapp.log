@@ -1,0 +1,6 @@
+INFO:Started
+INFO:Doing something
+INFO:Finished
+INFO:Started
+ERROR:Doing something
+INFO:Finished
