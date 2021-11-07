@@ -21,6 +21,11 @@
      - [sys](https://www.geeksforgeeks.org/python-sys-module/), [*args, *kwargs](https://www.geeksforgeeks.org/args-kwargs-python/)
      
           - > _Reviving my idea of sys in python and confirming my ideas of *args & *kwargs_
+
+ - [x] 7. **7th Nov**
+     - [Python logging](https://docs.python.org/3/howto/logging.html)
+      
+          - > got to know about displaying logs in python or `logging`
  
  
  <hr>
@@ -34,7 +39,8 @@ Day      | Score
 **4th Nov** | **1**
 **5th Nov** | **0.5**
 **6th Nov** | **1**
-***Total***     | ***2.5***
+**7th Nov** | **1**
+***Total***     | ***3.5***
      
 </div>
 <hr>
